@@ -1,0 +1,23 @@
+body {
+  background-color: #EAF6F6;
+}
+hr{
+    /* background-color: white; */
+
+    border-top: 5px dotted grey ;
+    /* border: none; */
+    /* height: 9px; */
+    width: 10%;
+}
+h1{
+  color: #66BFBF;
+  font-family: cursive;
+}
+h3{
+  color: #66BFBF;
+  font-family: cursive;
+}
+
+/* img{
+  height: 20px;
+} */
